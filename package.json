@@ -70,7 +70,7 @@
     "request": "^2.88.2",
     "semver": "^7.5.4",
     "sequelize": "^6.37.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.32.6",
     "simple-youtube-api": "^5.2.1",
     "sqlite3": "^5.1.7",
     "stackblur-canvas": "^2.6.0",
