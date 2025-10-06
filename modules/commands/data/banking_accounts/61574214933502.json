@@ -1,0 +1,30 @@
+{
+    "account_number": "513131",
+    "uid": "61574214933502",
+    "balance": "2564854",
+    "created_at": 1746430024087,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "send",
+            "amount": "200000",
+            "author": "61574214933502",
+            "time": 1746439853587
+        },
+        {
+            "type": "send",
+            "amount": "1800000",
+            "author": "61574214933502",
+            "time": 1746439869228
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1759771646422
+    },
+    "pass": "6144"
+}

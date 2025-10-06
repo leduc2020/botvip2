@@ -1,0 +1,172 @@
+{
+    "NOTIFICATION": true,
+    "language": "vi",
+    "keyActive": "rst-ai",
+    "notiGroup": false,
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "facebookAccount": {
+        "email": "mok16819@gmail.com",
+        "password": "thuylinh2002",
+        "2FA": "4HJQWO3ZPVFOMUNI26T43GDMQSUJDJ26"
+    },
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "autoRestart": 3600000,
+    "UPTIME": 8724188.91791798,
+    "ACCESSTOKEN": "EAFe8fp1qfR0BPhu1ZBR5ZAs1PCJtGIcJ8nbx77ZCQSjZBH66cHIh0M1YCrZBOqTiaTbAcGz1vvARu1n8ZAgFrAUkgo6fT7Pk7ZBZB4C5arkWDyObVJPG0XWzuUX0lDoV8t2DPkhuGs3WZAcWflZBM5KyEF82rG0APGLNZBCcXoQJYksZBgrXjk20fWT4W9E275BaC5aoQN3PczJpM1kp0TFs31eBIR4FRxyLNZBr1",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/de.red.735",
+    "ZALO_ADMIN": "0xxxxx",
+    "ADMIN_NAME": "Thùy Linh",
+    "BOTNAME": "Yuz",
+    "PREFIX": ".",
+    "ADMINBOT": [
+        "61568443432899",
+        "",
+        "",
+        ""
+    ],
+    "NDH": [
+        "61568443432899",
+        ""
+    ],
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "DESIGN": {
+        "Theme": "blue",
+        "Admin": "Phạm Minh Đồng",
+        "Setup": {
+            "Theme": "Mày có thể dùng các Theme như: Aqua, Fiery, Blue, Pink, Red, Retro, Sunlight, Teen, Summer, Flower, Ghost, and Hacker to enhance your terminal logs."
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "NPM_FCA": "meta-horizonn",
+    "configApi": {
+        "link": [
+            "https://18c43efc-c39d-4527-8339-b6b5f08ac470-00-c9x891o41cjk.global.replit.dev",
+            "https://nguyenmanh.name.vn"
+        ],
+        "key": [
+            "MDongVip_6886904368",
+            "x66MGQ25"
+        ]
+    },
+    "autoCleanCache": {
+        "Enable": true,
+        "CachePath": "./modules/commands/cache",
+        "AllowFileExtension": [
+            ".png",
+            ".jpg",
+            ".jpeg",
+            ".mp4",
+            ".mp3",
+            ".m4a",
+            ".ttf",
+            ".gif"
+        ]
+    },
+    "version": "3.5.0",
+    "iconUnsend": {
+        "status": true,
+        "icon": "👍"
+    },
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "silent",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36"
+    },
+    "boctham": {
+        "cooldownTime": ""
+    },
+    "cavevip": {
+        "cooldownTime": 1200000
+    },
+    "daily": {
+        "cooldownTime": 43200000,
+        "rewardCoin": 200000
+    },
+    "fbvideo": {
+        "API_KEY": ""
+    },
+    "hunter": {
+        "userToken": "D7tTFhgD",
+        "adminToken": "ZkSy3UsT"
+    },
+    "loto": {
+        "maxPlayers": 10,
+        "getDelay": 8
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "pokemon": {
+        "APIKEY": ""
+    },
+    "rname": {
+        "APIKEY": "mi451266190"
+    },
+    "shortvd": {
+        "APIKEY": "XSemUp2Zv5"
+    },
+    "video2": {
+        "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
+    },
+    "work": {
+        "cooldownTime": ""
+    },
+    "xidach": {
+        "maxPlayers": 5,
+        "normalWinBonus": 1,
+        "superWinBonus": 2,
+        "epicWinBonus": 4
+    },
+    "log": {
+        "enable": true
+    },
+    "leave": {
+        "status": false,
+        "number": 2
+    },
+    "adminOnly": false,
+    "menu": {
+        "autoUnsend": {
+            "status": true,
+            "timeOut": 60
+        }
+    },
+    "voice": {
+        "zalo_apikey": "r5lKNWX89OJEJMXlUEpGEzcjByjGb2F0",
+        "fpt_apikey": "MhYPX3ksxwdqLC63LiAR4r47sOrkSdhj"
+    },
+    "cave": {
+        "cooldownTime": 1200000
+    },
+    "spamping": {
+        "spamDelay": 2
+    },
+    "cauca": {
+        "APIKEY": ""
+    },
+    "rankup": {
+        "autoUnsend": true,
+        "unsendMessageAfter": 20
+    },
+    "cuop": {
+        "cooldownTime": 600000
+    },
+    "spam": {
+        "spamDelay": 2
+    },
+    "anti2": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    }
+}

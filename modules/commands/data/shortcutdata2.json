@@ -1,0 +1,38 @@
+[
+    {
+        "threadID": "28976331042012822",
+        "shortcuts": [
+            {
+                "input": "🐳",
+                "output": "🐳",
+                "uri": "vdgai"
+            },
+            {
+                "input": "Khánh",
+                "output": "🐳",
+                "uri": "vdgai"
+            }
+        ]
+    },
+    {
+        "threadID": "9850529191652535",
+        "shortcuts": [
+            {
+                "output": "👾",
+                "uri": "vdgai",
+                "input_type": "tag",
+                "tag_id": "100077366272669"
+            },
+            {
+                "input": "👾",
+                "output": "👾",
+                "uri": "vdgai"
+            },
+            {
+                "input": "A",
+                "output": "B",
+                "uri": "https://files.catbox.moe/fna6lc.jpg"
+            }
+        ]
+    }
+]
